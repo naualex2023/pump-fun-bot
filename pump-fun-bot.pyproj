@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{557db86f-1dcd-44f2-bd79-4a79d981a14b}</ProjectGuid>
+    <ProjectHome />
+    <StartupFile>trade.py</StartupFile>
+    <SearchPath />
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <ProjectTypeGuids>{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <InterpreterId>MSBuild|env|$(MSBuildProjectFullPath)</InterpreterId>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
+  <PropertyGroup>
+    <VisualStudioVersion Condition=" '$(VisualStudioVersion)' == '' ">10.0</VisualStudioVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="requirements.txt" />
+    <Content Include="trades\LR7TYDeWamU7MsCXFH7ydwJYaZfRJs8pzgCQrh2pump.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="buy.py" />
+    <Compile Include="config.py" />
+    <Compile Include="learning-examples\blockSubscribe_extract_transactions.py" />
+    <Compile Include="learning-examples\calculate_discriminator.py" />
+    <Compile Include="learning-examples\check_boding_curve_status.py" />
+    <Compile Include="learning-examples\compute_associated_bonding_curve.py" />
+    <Compile Include="learning-examples\decode_from_blockSubscribe.py" />
+    <Compile Include="learning-examples\decode_from_getAccountInfo.py" />
+    <Compile Include="learning-examples\decode_from_getTransaction.py" />
+    <Compile Include="learning-examples\fetch_price.py" />
+    <Compile Include="learning-examples\listen_create_from_blocksubscribe.py" />
+    <Compile Include="learning-examples\listen_new_direct.py" />
+    <Compile Include="learning-examples\listen_new_direct_full_details.py" />
+    <Compile Include="learning-examples\listen_new_portal.py" />
+    <Compile Include="learning-examples\listen_to_raydium_migration.py" />
+    <Compile Include="learning-examples\manual_buy.py" />
+    <Compile Include="learning-examples\manual_sell.py" />
+    <Compile Include="sell.py" />
+    <Compile Include="trade.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="learning-examples" />
+    <Folder Include="trades" />
+  </ItemGroup>
+  <ItemGroup>
+    <Interpreter Include="env\">
+      <Id>env</Id>
+      <Version>3.9</Version>
+      <Description>env (Python 3.9 (64-bit))</Description>
+      <InterpreterPath>Scripts\python.exe</InterpreterPath>
+      <WindowsInterpreterPath>Scripts\pythonw.exe</WindowsInterpreterPath>
+      <PathEnvironmentVariable>PYTHONPATH</PathEnvironmentVariable>
+      <Architecture>X64</Architecture>
+    </Interpreter>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+</Project>

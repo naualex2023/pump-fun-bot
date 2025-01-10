@@ -1,0 +1,9 @@
+{
+  "name": "if you buy this its bbq chicken",
+  "symbol": "bbq",
+  "uri": "https://ipfs.io/ipfs/QmQ4ZZYexXwjCMEn8tcmmpKr619XgGeWzobupBzegg7DLM",
+  "mint": "TF57FWrF3X2LdBi8bdtsY5xGdEgu2oco3iEYs7WFPHP",
+  "bondingCurve": "AG7A9VNGvPutFJzMVqLJcNap6rRUBXdoMZVreCiGbDqz",
+  "associatedBondingCurve": "2PuxtRAC47WmmKF3v2UHigz8Um5XRWNEDgXGKZ4UiscW",
+  "user": "AasA1XznHkYvGTV6PGCqDiDFG8e6vpk8x82v7tFJQH38"
+}
