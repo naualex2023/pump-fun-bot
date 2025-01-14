@@ -1,0 +1,9 @@
+{
+  "name": "RAZR AI",
+  "symbol": "RAZR",
+  "uri": "https://ipfs.io/ipfs/QmbEqRbHGK8aw4siDCZDumFq6Yi6s9ioNZWudntEe3K5gt",
+  "mint": "5HWUD7EFFfpUtpJynG1e8WZFqVJXRBJwYqAiJ2Uwpump",
+  "bondingCurve": "76gpnCS9yavxZQ5eKAYEQvNKPvzetnukNRJjRcTBveRe",
+  "associatedBondingCurve": "8M65aTEgEy9499WmbVwmqroW1JAgq2RefCygcUnHWDWQ",
+  "user": "H2KLUHwa9L2JcATNsKH4ymMM7hXwmJ1ZJ3ZKCqiD781B"
+}

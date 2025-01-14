@@ -1,0 +1,9 @@
+{
+  "name": "First Crypto Charity Dog",
+  "symbol": "SMUDGE",
+  "uri": "https://ipfs.io/ipfs/QmQF14sRkT31Sa3bVDDKrichbduapGmAfmRPT1KNjwq1rg",
+  "mint": "5ytBKFs22nBK1EFXTKhdKTJmg6FyhMyM38g2DV9fpump",
+  "bondingCurve": "CXWnn4wPrQC3j5A7gqzNx8yvdHd7LCYqhgBXwzchwXzq",
+  "associatedBondingCurve": "AuUbmXzGoSSqYQw1rpXD4m2tF2c8bDcsJy5ieAUYmk9Q",
+  "user": "26AhuqTmoc9vZwGo44K8hY9hxyqK5CxXbuoj3wXPqL4r"
+}

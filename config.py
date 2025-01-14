@@ -20,8 +20,12 @@ SELL_SLIPPAGE = 0.2  # 20% slippage tolerance for selling
 
 # Your nodes
 # You can also get a trader node https://docs.chainstack.com/docs/solana-trader-nodes
-RPC_ENDPOINT = "https://solana-mainnet.core.chainstack.com/f11d8e197e0805aea2c47e652060950d"
-WSS_ENDPOINT = "wss://solana-mainnet.core.chainstack.com/f11d8e197e0805aea2c47e652060950d"
+#helius^https://mainnet.helius-rpc.com/?api-key=df9a7fb3-af4e-4d32-9922-dc1d74034154
+#chainstak^https://solana-mainnet.core.chainstack.com/f11d8e197e0805aea2c47e652060950d
+RPC_ENDPOINT = "https://mainnet.helius-rpc.com/?api-key=df9a7fb3-af4e-4d32-9922-dc1d74034154"
+#helius^wss://mainnet.helius-rpc.com/?api-key=df9a7fb3-af4e-4d32-9922-dc1d74034154
+#chainstack^wss://solana-mainnet.core.chainstack.com/f11d8e197e0805aea2c47e652060950d
+WSS_ENDPOINT = "wss://mainnet.helius-rpc.com/?api-key=df9a7fb3-af4e-4d32-9922-dc1d74034154"
 
 #Private key{bmUJcGFt.zMKpE5hl6r6Si8kwTovvM0LAPYEXE0jB}
-PRIVATE_KEY = "bmUJcGFt.zMKpE5hl6r6Si8kwTovvM0LAPYEXE0jB"
+PRIVATE_KEY = "4FNFPg1UeFFmEmS367ekEURfQZpzbbbWm8Mc9rzTgZshFTMk4AQLKt9mPTspgh68FCBkmLTZBf1tW7Lunv2tbDWR"

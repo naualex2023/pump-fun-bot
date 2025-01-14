@@ -1,0 +1,9 @@
+{
+  "name": "ADIOSMOTHERFUCKER",
+  "symbol": "THERFUCKER",
+  "uri": "https://ipfs.io/ipfs/QmVcErcj2fhEG1czw9rHAEE4jGmYJNJkhRsWHo9G67oBB5",
+  "mint": "A6GfsvYz4b6ny8BthmguHpeE9PCLRh49jgQKtpAiyF9M",
+  "bondingCurve": "A7QR2ZFqHt4b2G48n5quYBDtuGPB99whumVfBEZeofNL",
+  "associatedBondingCurve": "HEM6ic1pgkdTEFYJ2bCsxKxyqp5aru4SSN9Z37o8uzqw",
+  "user": "GFgxkkgeQ33XZhd7CRy9PjUgHNttHTgUsncFtjUTT4mj"
+}

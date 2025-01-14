@@ -1,0 +1,9 @@
+{
+  "name": "Monkey Room Service",
+  "symbol": "MRS",
+  "uri": "https://ipfs.io/ipfs/QmUTE4WgrnmpxAv2qD9hupHafUQBuXhcB9SQxJAHe63wnU",
+  "mint": "FFzw3qgeB23qVGFh5y33qKSq7wnoe34DpLcS7Agxpump",
+  "bondingCurve": "EEHvoCLj3BdbHgubrzSSyr1Cmt59Z7XmWrXCh3Qj84s4",
+  "associatedBondingCurve": "FKbh3JAGxb3PgS1wXJinY36SstKpdyrCeBpnDUHuJrfm",
+  "user": "D54zDnAniU9ws82CHej7qnftvJLtHiKi4RwWZZsyEk3P"
+}

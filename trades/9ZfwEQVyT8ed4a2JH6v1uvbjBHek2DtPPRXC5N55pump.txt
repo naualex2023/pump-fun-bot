@@ -1,0 +1,9 @@
+{
+  "name": "AI Operating System",
+  "symbol": "AIOS",
+  "uri": "https://ipfs.io/ipfs/QmVtkF8sAh74DusCUnCPDNw1Zi3jqbhffXpCkfeiHx7e1w",
+  "mint": "9ZfwEQVyT8ed4a2JH6v1uvbjBHek2DtPPRXC5N55pump",
+  "bondingCurve": "FXhwgpA47iNcQphPEXumdzyyfvchNksXJQbufx9cX59K",
+  "associatedBondingCurve": "HXdxb7GGdtz5dG7wt8fHNzKzAVwuM2W88PoeR5nbZfKh",
+  "user": "BAGvjJCM5GCr6TFyVh6e2MqtU9waP2PkFRdVGJz3o9dy"
+}
